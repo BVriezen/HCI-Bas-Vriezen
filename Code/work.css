@@ -1,0 +1,329 @@
+.introductie{
+	width: 60%;
+	margin-top: 20px;
+}
+
+h5{
+	color: #FC5A67;
+	font-size: 20px;
+	margin-left: 48px;
+	margin-top: 68px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.tekstOnder{
+	width: 80%;
+	margin-top: 15px;
+	margin-bottom: 60px;
+	margin: 0 auto;
+}
+
+.tweeMedia{
+	display: flex;
+	justify-content: center;
+}
+
+a{
+	color: #3399FF;
+}
+
+a:hover{
+	color: #3399FF;
+}
+
+a:visited{
+	color: #3399FF;
+}
+
+/*Media voor vision*/
+.rondjes{
+	background-image: url(images/rondjes.png);
+	height: 400px;
+	width: 406px;
+	background-repeat: no-repeat;
+}
+
+.codeRondjes{
+	background-image: url(images/rondjesCoden.png);
+	height: 400px;
+	background-repeat: no-repeat;
+	width: 615px;
+	height: 400px;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+.hoeken{
+	background-image: url(images/hoeken.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.codeHoeken{
+	background-image: url(images/codeHoeken.png);
+	height: 400px;
+	background-repeat: no-repeat;
+	width: 556px;
+	height: 400px;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+.hoeken{
+	background-image: url(images/hoeken.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.codeBlok{
+	background-image: url(images/codeBlok.png);
+	height: 400px;
+	background-repeat: no-repeat;
+	width: 556px;
+	height: 400px;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+.groeneCirkel{
+	background-image: url(images/groenCirkel.png);
+	height: 192px;
+	width: 257px;
+	background-repeat: no-repeat;
+}
+
+.rodeNeus{
+	background-image: url(images/clownNeus.png);
+	height: 200px;
+	width: 257px;
+	background-repeat: no-repeat;
+}
+
+.codeRodeNeus{
+	background-image: url(images/codeRoodNeus.png);
+	height: 400px;
+	background-repeat: no-repeat;
+	width: 556px;
+	height: 400px;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+.gekkeKleuren{
+	background-image: url(images/gekkeKleuren.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+/*Unity & Madmapper*/
+
+.spaceTop{
+	margin-top: 60px;
+}
+
+.spaceTopTekst{
+	margin-top: -30px;
+}
+
+.tekst{
+	height: 400px;
+	width: 510px;
+	padding: 10px;
+	padding-left: 22px;
+	padding-top: 0px;
+}
+
+/*Arduino*/
+
+.wrap{
+	flex-wrap: wrap;
+}
+
+.code3{
+	background-image: url(arduino/c3.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code4{
+	background-image: url(arduino/c4.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code6{
+	background-image: url(arduino/c6.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code7{
+	background-image: url(arduino/c7.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code9{
+	background-image: url(arduino/c9.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code10{
+	background-image: url(arduino/c10.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code11{
+	background-image: url(arduino/c11.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.code12{
+	background-image: url(arduino/c12.png);
+	height: 400px;
+	width: 510px;
+	background-repeat: no-repeat;
+}
+
+.opdrachtDertien{
+	margin-top: 68px;
+}
+
+.opdrachtacht>video{
+	margin-left: 25%;
+}
+
+/*Excursie*/
+
+.test{
+	background-image: url(images/excursieObject.jpg);
+	height: 400px;
+	width: 510px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.test2{
+	background-image: url(images/excursieMij1.jpg);
+	height: 400px;
+	width: 510px;
+	margin-top: 60px;
+	background-repeat: no-repeat;
+}
+
+.spacingh5{
+	margin-top: 190px;
+}
+
+/*Lab Weeks*/
+
+.zes{
+	margin-top: -49px;
+}
+
+.negen{
+	margin-top: -40px;
+}
+
+.extraSpace{
+	margin-top: 125px;
+}
+
+.dag3{
+	background-image: url(images/kopje.png);
+	height: 400px;
+	width: 680px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.dag4{
+	background-image: url(images/phial.png);
+	height: 400px;
+	width: 680px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.dag6{
+	background-image: url(images/glassBulb.png);
+	height: 400px;
+	width: 680px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.dag8{
+	background-image: url(images/sceneL.jpg);
+	height: 400px;
+	width: 320px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.reflectie{
+	margin-top: -75px;
+	padding-bottom: 20px;
+}
+
+/*VR/AR*/
+
+.voorbeeld1{
+	background-image: url(images/trein.png);
+	height: 400px;
+	width: 605px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.voorbeeld2{
+	background-image: url(images/dino.jpg);
+	height: 400px;
+	width: 605px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.voorbeeld3{
+	background-image: url(images/naald.svg);
+	height: 400px;
+	width: 500px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+/*Wearables*/
+
+.voorbeeld4{
+	background-image: url(images/armband.svg);
+	height: 400px;
+	width: 500px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.voorbeeld5{
+	background-image: url(images/klok.svg);
+	height: 400px;
+	width: 500px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+}
+
+.extrsHeight{
+	margin-top: 130px;
+}

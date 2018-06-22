@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: white;
+	font-family: Avenir;
+}
+
+nav{
+	background-color: #FF5964;
+	height: 80px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 25px;
+	padding-left: 10px;
+}
+
+h1{
+	color: grey;
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 20px;
+}
+
+li{
+	color: white;
+	font-size: 20px;
+	font-family: avenir;
+	font-weight: lighter;
+	display: inline;
+	padding-left: 15px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+.foto{
+	background-image: url("images/portret.png");
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 265px;
+	margin: 0 auto;
+}
+
+.pIntroductie{
+	margin: 0 auto;
+}
+
+.introductie{
+	margin: 0 auto;
+	width: 80%;
+}
